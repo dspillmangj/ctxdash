@@ -53,9 +53,9 @@ jobs:
                   }
                   request.continue();
                 });
-                // Wait for dynamic content
+                // Load page and wait for dynamic content
                 await page.goto('https://ctxyouth.com/dashboard', { waitUntil: 'networkidle2', timeout: 60000 });
-                await page.waitForTimeout(2000); // Wait for dynamic content
+                await new Promise(resolve => setTimeout(resolve, 2000)); // Wait 2s for dynamic content
                 
                 // Get HTML
                 let content = await page.content();
