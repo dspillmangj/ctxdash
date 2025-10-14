@@ -142,6 +142,10 @@ jobs:
           )"
         timeout-minutes: 5
 
+      # Add CNAME file for custom domain
+      - name: Add CNAME file
+        run: echo "dashboard.ctxyouth.com" > dist/CNAME
+
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
