@@ -93,9 +93,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 </style>
 <link rel='stylesheet' id='hfe-style-css' href='https://ctxyouth.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=2.6.1' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='https://ctxyouth.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.5' media='all' />
-<link rel='stylesheet' id='elementor-post-1319-css' href='https://ctxyouth.com/wp-content/uploads/elementor/css/post-1319.css?ver=1761752950' media='all' />
+<link rel='stylesheet' id='elementor-post-1319-css' href='https://ctxyouth.com/wp-content/uploads/elementor/css/post-1319.css?ver=1761794781' media='all' />
 <link rel='stylesheet' id='widget-heading-css' href='https://ctxyouth.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.5' media='all' />
-<link rel='stylesheet' id='elementor-post-1870-css' href='https://ctxyouth.com/wp-content/uploads/elementor/css/post-1870.css?ver=1761758442' media='all' />
+<link rel='stylesheet' id='elementor-post-1870-css' href='https://ctxyouth.com/wp-content/uploads/elementor/css/post-1870.css?ver=1761829686' media='all' />
 <link rel='stylesheet' id='ea11y-widget-fonts-css' href='https://ctxyouth.com/wp-content/plugins/pojo-accessibility/assets/build/fonts.css?ver=3.8.1' media='all' />
 <link rel='stylesheet' id='ea11y-skip-link-css' href='https://ctxyouth.com/wp-content/plugins/pojo-accessibility/assets/build/skip-link.css?ver=3.8.1' media='all' />
 <link rel='stylesheet' id='hfe-elementor-icons-css' href='https://ctxyouth.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
@@ -294,8 +294,8 @@ class="post-1870 page type-page status-publish ast-article-single" id="post-1870
 	itemprop="text">
 
 	
-	<body>		<div data-elementor-type="wp-page" data-elementor-id="1870" class="elementor elementor-1870">
-				<div class="elementor-element elementor-element-pe4t42x e-flex e-con-boxed e-con e-parent" data-id="pe4t42x" data-element_type="container" data-settings='{"background_background":"classic"}'>
+			<div data-elementor-type="wp-page" data-elementor-id="1870" class="elementor elementor-1870">
+				<div class="elementor-element elementor-element-pe4t42x e-flex e-con-boxed e-con e-parent" data-id="pe4t42x" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-868c7c6 e-con-full e-flex e-con e-child" data-id="868c7c6" data-element_type="container">
 				<div class="elementor-element elementor-element-735da12 elementor-widget elementor-widget-heading" data-id="735da12" data-element_type="widget" data-widget_type="heading.default">
@@ -306,9 +306,9 @@ class="post-1870 page type-page status-publish ast-article-single" id="post-1870
 		<div class="elementor-element elementor-element-680b8d1 e-flex e-con-boxed e-con e-parent" data-id="680b8d1" data-element_type="container">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-0797425 elementor-widget elementor-widget-html" data-id="0797425" data-element_type="widget" data-widget_type="html.default">
-					
-
-
+					<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Group/Team Dashboard - Colorado Teen Extreme 2026</title>
@@ -477,8 +477,8 @@ class="post-1870 page type-page status-publish ast-article-single" id="post-1870
             100% { transform: rotate(360deg); }
         }
     </style>
-
-
+</head>
+<body>
     <div class="container">
         
         <div id="loginSection" class="login-form">
@@ -648,7 +648,7 @@ class="post-1870 page type-page status-publish ast-article-single" id="post-1870
 
         function populateAssociationSelect() {
             const select = document.getElementById('associationSelect');
-            select.innerHTML = '<option value="">Select a group or team';
+            select.innerHTML = '<option value="">Select a group or team</option>';
             associations.forEach((assoc, index) => {
                 const option = document.createElement('option');
                 option.value = index;
@@ -818,12 +818,12 @@ class="post-1870 page type-page status-publish ast-article-single" id="post-1870
             }
         });
     </script>
-
-				</div>
+</body>
+</html>				</div>
 					</div>
 				</div>
 				</div>
-		</body>
+		
 	
 	
 </div><!-- .entry-content .clear -->
@@ -964,7 +964,7 @@ var starter_templates_zip_preview = {"AstColorPaletteVarPrefix":"--ast-global-co
 <script src="https://ctxyouth.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.5" id="elementor-frontend-modules-js"></script>
 <script src="https://ctxyouth.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.32.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"https:\/\/ctxyouth.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ctxyouth.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/ctxyouth.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"cccfd6de29"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1870,"title":"Dashboard%20-%20CTX%202026%3A%20LEVEL%20UP%21","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.32.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true},"urls":{"assets":"https:\/\/ctxyouth.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/ctxyouth.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/ctxyouth.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"fbfa34e159"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1870,"title":"Dashboard%20-%20CTX%202026%3A%20LEVEL%20UP%21","excerpt":"","featuredImage":false}};
 </script>
 <script src="https://ctxyouth.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.5" id="elementor-frontend-js"></script>
 <script id="ea11y-widget-js-extra">
@@ -976,11 +976,11 @@ window.nfdPerformance = window.nfdPerformance || {};
         window.nfdPerformance.imageOptimization = window.nfdPerformance.imageOptimization || {};
         window.nfdPerformance.imageOptimization.lazyLoading = {"classes":["nfd-performance-not-lazy","a3-notlazy","disable-lazyload","no-lazy","no-lazyload","skip-lazy"],"attributes":["data-lazy-src","data-crazy-lazy=\"exclude\"","data-no-lazy","data-no-lazy=\"1\""]};
 </script>
-<script src="https://ctxyouth.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/image-lazy-loader.min.js?ver=1759979457" id="nfd-performance-lazy-loader-js"></script>
+<script src="https://ctxyouth.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/image-lazy-loader.min.js?ver=1761794777" id="nfd-performance-lazy-loader-js"></script>
 <script id="linkprefetcher-js-before">
 window.LP_CONFIG = {"activeOnDesktop":true,"behavior":"mouseHover","hoverDelay":60,"instantClick":false,"activeOnMobile":true,"mobileBehavior":"touchstart","ignoreKeywords":"#,?","isMobile":false}
 </script>
-<script src="https://ctxyouth.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/link-prefetch.min.js?ver=4.7.0" id="linkprefetcher-js" defer></script>
+<script src="https://ctxyouth.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/link-prefetch.min.js?ver=4.7.1" id="linkprefetcher-js" defer></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
